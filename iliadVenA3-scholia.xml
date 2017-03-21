@@ -417,7 +417,9 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.39a" n="78" type="scholion">
                   <div n="lemma">
-                     <p> Δύσπαρι </p>
+                     <p>
+                        <persName n="urn:cite2:hmt:pers.r1:pers129">Δύσπαρι</persName>
+                     </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.39</p>
@@ -426,8 +428,10 @@ style simple scholia" alternate="no"?>
                      <p> ἐπι κακῷ ὠνομασμένε <persName n="urn:cite2:hmt:pers.r1:pers129"
                            >Πάρι</persName> κακὲ <persName n="urn:cite2:hmt:pers.r1:pers129"
                            >Πάρι</persName> καὶ <persName n="urn:cite2:hmt:pers.r1:pers592"
-                           >Αλχμὰν</persName> φησίν <q>Δύσπαρις Αἰνόπαρις κακὸν Ελλαδι
-                           Βοτιανείρι</q> ⁑</p>
+                           >Αλχμὰν</persName> φησίν <q><persName n="urn:cite2:hmt:pers.r1:pers129"
+                              >Δύσπαρις</persName>
+                           <persName n="urn:cite2:hmt:pers.r1:pers129">Αἰνόπαρις</persName> κακὸν
+                              <placeName n="urn:cite2:hmt:place.r1:place3">Ελλαδι</placeName> βοτιανείρι</q> ⁑</p>
                   </div>
                </div>
                <div ana="3.28b" n="58" type="scholion">
