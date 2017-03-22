@@ -872,25 +872,24 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.75</p>
                   </div>
                   <div n="comment">
-                     <p> ῎<persName n="urn:cite2:hmt:pers.r1:HELP">Ιασος</persName> καὶ
-                           <rs>Πελασγὸς</rs>
+                     <p> <persName n="urn:cite2:hmt:pers.r1:pers406">῎Ιασος</persName> καὶ
+                        <persName n="urn:cite2:hmt:pers.r1:pers433">Πελασγὸς</persName>
                         <rs>Τριόπα</rs> παῖδες. τελευτήσαντος δὲ αὐτοῖς τοῦ <choice>
                            <abbr>πρς</abbr>
                            <expan>πατρὸς</expan>
-                        </choice> διείλοντο τὴν βασιλείαν· λαχὼν δὲ <rs>Πελασγὸς</rs> μὲν τὰ πρὸς
+                        </choice> διείλοντο τὴν βασιλείαν· λαχὼν δὲ <persName n="urn:cite2:hmt:pers.r1:pers433">Πελασγὸς</persName> μὲν τὰ πρὸς
                            <placeName n="urn:cite2:hmt:place.r1:HELP">Ερασῖνον</placeName> ποταμὸν.
-                        ἔκτισε <placeName n="urn:cite2:hmt:place.r1:HELP">Λάρισαν</placeName>.
-                           ῎<persName n="urn:cite2:hmt:pers.r1:HELP">Ϊασος</persName> δὲ τὰ πρὸς
-                           ΄<placeName n="urn:cite2:hmt:place.r1:HELP">Ϊλιον</placeName>.
+                        ἔκτισε <placeName n="urn:cite2:hmt:place.r1:place401">Λάρισαν</placeName>.
+                        <persName n="urn:cite2:hmt:pers.r1:pers406">῎Ϊασος</persName> δὲ τὰ πρὸς
+                        <placeName n="urn:cite2:hmt:place.r1:place6">΄Ϊλιον</placeName>.
                         τελευτησάντων δ' αὐτῶν ὁ νεώτατος ἀδελφὸς ᾿<persName
-                           n="urn:cite2:hmt:pers.r1:HELP">Αγήνωρ</persName> ἐπεστράτευσα τῆ χώρα
+                           n="urn:cite2:hmt:pers.r1:pers653">Αγήνωρ</persName> ἐπεστράτευσα τῆ χώρα
                         πολλὴν ἵππον ἐπαγόμενος ὅθεν ἐκλήθη ἱππόβοτον μὲν τὸ ῎<placeName
-                           n="urn:cite2:hmt:place.r1:HELP">Αργος</placeName> μὲν ἀπὸ τῆς ᾿<persName
-                           n="urn:cite2:hmt:pers.r1:HELP">Αγήνορος</persName> ἵππου· ἀπὸ δὲ
-                           <persName n="urn:cite2:hmt:pers.r1:HELP">Ϊάσου</persName> ῎<persName
-                           n="urn:cite2:hmt:pers.r1:HELP">Ϊασον</persName> ἱστορεῖ
-                           <rs>῾Ελλανϊκὸς</rs> ἐν ᾿<placeName n="urn:cite2:hmt:place.r1:HELP"
-                           >Αργονικοῖς</placeName> ⁑</p>
+                           n="urn:cite2:hmt:place.r1:place114">Αργος</placeName> μὲν ἀπὸ τῆς ᾿<persName
+                              n="urn:cite2:hmt:pers.r1:pers653">Αγήνορος</persName> ἵππου· ἀπὸ δὲ
+                        <persName n="urn:cite2:hmt:pers.r1:pers406">Ϊάσου</persName> ῎<persName
+                           n="urn:cite2:hmt:pers.r1:pers406">Ϊασον</persName> ἱστορεῖ
+                        <persName n="urn:cite2:hmt:pers.r1:pers303">῾Ελλανϊκὸς</persName> ἐν ᾿<title>Αργονικοῖς</title> ⁑</p>
                   </div>
                </div>
                <div ana="3.80b" n="149" type="scholion">
@@ -907,14 +906,14 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.82b" n="151" type="scholion">
                   <div n="lemma">
-                     <p> ΐσχεσθ᾽ <rs>Ἀργεῖοι</rs>
+                     <p> ΐσχεσθ᾽ <rs type="ethni" n="urn:cite2:hmt:place.r1:place114">Ἀργεῖοι</rs>
                      </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.82</p>
                   </div>
                   <div n="comment">
-                     <p> ὅτι τὸ βάλλετε ἀντι τοῦ τιτρώσκεται ⁑</p>
+                     <p> ὅτι τὸ <rs type="waw">βάλλετε</rs> ἀντι τοῦ <rs type="waw">τιτρώσκεται</rs> ⁑</p>
                   </div>
                </div>
                <div ana="3.83a1" n="152" type="scholion">
@@ -973,7 +972,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p> ὅτι <persName n="urn:cite2:hmt:pers.r1:pers15">Ζηνόδοτος</persName> γράφει
-                              <quote><rs>Ἀργεῖοι</rs> καὶ <rs>Τρῶες</rs></quote> ὡς ἀποστροφῆς τοῦ
+                        <quote><rs type="ethnic" n="urn:cite2:hmt:place.r1:place114">Ἀργεῖοι</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place.r1:place6">Τρῶες</rs></quote> ὡς ἀποστροφῆς τοῦ
                         λόγου γεγονυίας πρὸς αυτούς· ἔστι δὲ τὸ <choice>
                            <abbr>διακρινθην</abbr>
                            <expan>διακρινθηναι</expan>
@@ -1011,7 +1010,7 @@ style simple scholia" alternate="no"?>
                      <p> οὕτως προπερισπᾶται ἔστι γὰρ εὐκτικόν κατα πάθος γεγονὸς ἐκ τοῦ
                         διακρινθείητε ὁμοίως τὸ<quote> καὶ εἴ ποθεν ἀλλ᾽ ἐπιθεῖτε</quote> ῶν πάλιν
                         πρῶτα διακρινθείημεν καὶ διακρινθεῖμεν ὥσπερ καὶ τὸ<quote> ἡμεῖς δ᾽ ἐς
-                           δεκάδας διακοσμηθεῖμεν <rs>Ἀχαιοί</rs>
+                           δεκάδας διακοσμηθεῖμεν <rs type="ethnic" n="urn:cite2:hmt:place.r1:place96">Ἀχαιοί</rs>
                         </quote>⁑</p>
                   </div>
                </div>
