@@ -2541,8 +2541,8 @@ style simple scholia" alternate="no"?>
                         <persName n="urn:cite2:hmt:pers.r1:pers40">᾿Απόλλωνος</persName> υἱὸν
                            παραδίδωσιν <persName n="urn:cite2:hmt:pers.r1:HELP"> ΄Ϊβυκος</persName>
                         <persName n="urn:cite2:hmt:pers.r1:pers129">᾿Αλέξανδρος</persName>
-                        <persName n="urn:cite2:hmt:pers.r1:HELP">Ευφορίων</persName>
-                        <persName n="urn:cite2:hmt:pers.r1:HELP">Λυκόφρων </persName>⁑ </p>
+                        <persName n="urn:cite2:hmt:pers.r1:pers464">Ευφορίων</persName>
+                        <persName n="urn:cite2:hmt:pers.r1:pers109">Λυκόφρων </persName>⁑ </p>
                   </div>
                </div>
                <div ana="3.315D" n="463" type="scholion">
@@ -2598,7 +2598,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p> ἐὰν εἰς τὸ ἠρήσαντο στίξωμεν. φησὶν ὁ <persName
-                           n="urn:cite2:hmt:pers.r1:HELP">Νικάνωρ</persName> ὡς ἑτέροις ἔσονται
+                           n="urn:cite2:hmt:pers.r1:per76">Νικάνωρ</persName> ὡς ἑτέροις ἔσονται
                         θεοῖς ἀνατείναντες τὰς χεῖρας· διὸ στίζει εἰς τὸ θεοῖς καὶ τὸ ᾿ϊδὲ ἀντι τοῦ
                            <rs type="waw">και</rs> ⁑</p>
                   </div>
@@ -2614,12 +2614,12 @@ style simple scholia" alternate="no"?>
                      <p>
                         <persName n="urn:cite2:hmt:pers.r1:pers129">Πάρις</persName> ὁ <persName
                            n="urn:cite2:hmt:pers.r1:pers129">Αλέξανδρος</persName> ἐκλήθη παρα τὸ
-                        ἐκτεθῆναι αὐτὸν ἐν τῇ<persName n="urn:cite2:hmt:pers.r1:HELP">
+                        ἐκτεθῆναι αὐτὸν ἐν τῇ <persName n="urn:cite2:hmt:pers.r1:place89">
                            ΄Ϊδη</persName> εὐθὺς τεχθέντα καὶ αὐξηθέντα παρελθεῖν τὸν μόρον οὕτως·
-                        κατα γαστρὸς αὐτὸν ἔχουσα ἡ<persName n="urn:cite2:hmt:pers.r1:HELP">
+                        κατα γαστρὸς αὐτὸν ἔχουσα ἡ<persName n="urn:cite2:hmt:pers.r1:pers535">
                            ῾Εκάβη</persName>. ἐνόμισεν κατόναρ καιόμενον δαλὸν τίκτειν ὅστις
-                        κατέφλεξε πᾶσαν τῆν τε πόλιν καὶ τὴν ἐν τῇ<persName
-                           n="urn:cite2:hmt:pers.r1:HELP"> ῎Ϊδῃ</persName> ὕλην ἑστῶσαν· τοῦτο δὲ τὸ
+                        κατέφλεξε πᾶσαν τῆν τε πόλιν καὶ τὴν ἐν τῇ<placeName
+                           n="urn:cite2:hmt:pers.r1:place89"> ῎Ϊδῃ</placeName> ὕλην ἑστῶσαν· τοῦτο δὲ τὸ
                         ἐνύπνιον ἀκούσαντες οἱ μάντεις καὶ οἱ περι τοὺς ὀνείρους δεινοὶ εἶπον τὸ
                         τεχθὲν παιδίον εὐθέως μικρὸν ὂν ῥιφῆναι θρησὶ βοράν. τεχθέντα δὲ
                            τὸν<persName n="urn:cite2:hmt:pers.r1:pers129"> ᾿Αλέξανδρον</persName>
